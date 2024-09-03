@@ -1,0 +1,28 @@
+Problem statement of E-commerce company-- 
+
+
+The company faces numerous challenges across its operations. To ensure sustainable growth and operational efficiency, it aims to address 
+key areas:
+
+Financial Performance: Enhance financial performance by analyzing total revenue, identifying top-selling products, calculating average order 
+value, and identifying peak sales periods.
+
+Customer Insights: Understand customer behavior by identifying top-performing locations, analyzing order cancellations, and 
+differentiating between B2B and B2C customers.
+
+Logistics and Fulfillment: Streamline logistics and fulfillment processes by calculating average shipping time, and evaluating the percentage of orders fulfilled by Amazon vs Merchant.
+
+Product Management: Enhance product management strategies by identifying popular product categories, and analyzing average quantity 
+ordered.
+
+Customer Satisfaction and Returns: Enhance customer satisfaction by analyzing return and cancellation rates, identifying problematic products
+or categories, and addressing quality issues.
+
+This comprehensive analysis aims to provide actionable insights, enabling data-driven decision-making, enhancing operational efficiency, 
+and driving sustainable growth in the competitive retail landscape.
+
+Hint:
+Step1: Analyze the dataset that is given to you.
+Step2: Cleanse the dataset by replacing null values in the 'Amount' column with the median of the available data..
+Step3: Begin analysis and address the problem statement.
+Step4: Once you have completed the task, proceed to the final step, which involves solving the multiple-choice questions (MCQs). This will allow you to apply and test your understanding of the material covered.
