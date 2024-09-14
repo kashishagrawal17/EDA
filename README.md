@@ -1,4 +1,5 @@
-Conducted comprehensive Exploratory Data Analysis (EDA) on an Amazon E-Commerce dataset. Formulated a clear problem statement and applied data-driven methodologies to address it. Utilized Python, Pandas, Matplotlib, and Seaborn for data manipulation, visualization, and analysis. Derived actionable insights and presented findings through visualizations to support business decision-making. Here's the breakdown of my work 👇 :
+Conducted comprehensive Exploratory Data Analysis (EDA) on an Amazon E-Commerce dataset. Formulated a clear problem statement and applied data-driven methodologies to address it. Utilized Python, Pandas, Matplotlib, and Seaborn for data manipulation, visualization, and analysis. Derived actionable insights and presented findings through visualizations to support business decision-making. 
+Here's the breakdown of my work 👇 :
 
 • **Comprehensive Data Cleaning and Preparation:** Utilized pandas for data cleaning, handling missing values, and preparing the Amazon e-commerce dataset for analysis.
 
